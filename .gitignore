@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.qodo/
+# Données téléchargées automatiquement par le script
+data/
+resultats.txt
